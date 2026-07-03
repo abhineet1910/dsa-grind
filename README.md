@@ -11,4 +11,8 @@ DSA journey — Striver A2Z + SDE Sheet · LeetCode + GFG · Abhineet 2026
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhineet1910/dsa-grind/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/abhineet1910/dsa-grind/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
