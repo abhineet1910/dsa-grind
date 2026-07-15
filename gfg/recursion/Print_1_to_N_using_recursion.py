@@ -13,7 +13,6 @@
 
 def printNos(n):
     if n == 0:
-        print(0, end=" ")
         # base condition
         return
 
