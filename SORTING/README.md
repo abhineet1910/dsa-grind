@@ -20,7 +20,7 @@ These are standalone implementations written to understand the core logic, time 
 
 | # | Algorithm | Status | Time Complexity | Space Complexity | Stable |
 |---|-----------|--------|-----------------|------------------|--------|
-| 1 | Bubble Sort | ⬜ Pending | O(n²) | O(1) | ✅ Yes |
+| 1 | Bubble Sort | ✅ Completed | O(n²) (Best: O(n) with optimization) | O(1) | ✅ Yes |
 | 2 | Selection Sort | ✅ Completed | O(n²) | O(1) | ❌ No |
 | 3 | Insertion Sort | ⬜ Pending | O(n²) | O(1) | ✅ Yes |
 | 4 | Merge Sort | ⬜ Pending | O(n log n) | O(n) | ✅ Yes |
@@ -28,11 +28,12 @@ These are standalone implementations written to understand the core logic, time 
 
 ## 📂 Folder Structure
 
-```
+```text
 SORTING/
 │
-├── selection_sort.py
 ├── README.md
+├── bubble_sort.py
+├── selection_sort.py
 ```
 
 More sorting algorithms will be added as I progress.
@@ -55,18 +56,16 @@ More sorting algorithms will be added as I progress.
 
 ## 🚀 Progress
 
+Completed:
+
+- ✅ Bubble Sort
 - ✅ Selection Sort
 
 Next:
 
-- Bubble Sort
 - Insertion Sort
 - Merge Sort
 - Quick Sort
-- Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
 
 ---
 
