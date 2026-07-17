@@ -20,11 +20,13 @@ These are standalone implementations written to understand the core logic, time 
 
 | # | Algorithm | Status | Time Complexity | Space Complexity | Stable |
 |---|-----------|--------|-----------------|------------------|--------|
-| 1 | Bubble Sort | ✅ Completed | O(n²) (Best: O(n) with optimization) | O(1) | ✅ Yes |
+| 1 | Bubble Sort | ✅ Completed | Best: **O(n)** (Optimized)<br>Average/Worst: **O(n²)** | O(1) | ✅ Yes |
 | 2 | Selection Sort | ✅ Completed | O(n²) | O(1) | ❌ No |
-| 3 | Insertion Sort | ⬜ Pending | O(n²) | O(1) | ✅ Yes |
+| 3 | Insertion Sort | ✅ Completed | Best: **O(n)**<br>Average/Worst: **O(n²)** | O(1) | ✅ Yes |
 | 4 | Merge Sort | ⬜ Pending | O(n log n) | O(n) | ✅ Yes |
 | 5 | Quick Sort | ⬜ Pending | Average: O(n log n)<br>Worst: O(n²) | O(log n) | ❌ No |
+
+---
 
 ## 📂 Folder Structure
 
@@ -34,6 +36,7 @@ SORTING/
 ├── README.md
 ├── bubble_sort.py
 ├── selection_sort.py
+├── insertion_sort.py
 ```
 
 More sorting algorithms will be added as I progress.
@@ -43,8 +46,10 @@ More sorting algorithms will be added as I progress.
 ## 📖 Concepts Covered
 
 - Swapping elements
+- Shifting elements
+- Finding minimum element
+- Maintaining a sorted portion of the array
 - Nested loops
-- Searching minimum/maximum element
 - In-place sorting
 - Stable vs Unstable sorting
 - Comparison-based sorting
@@ -56,14 +61,14 @@ More sorting algorithms will be added as I progress.
 
 ## 🚀 Progress
 
-Completed:
+### ✅ Completed
 
-- ✅ Bubble Sort
-- ✅ Selection Sort
-
-Next:
-
+- Bubble Sort
+- Selection Sort
 - Insertion Sort
+
+### 🔜 Next
+
 - Merge Sort
 - Quick Sort
 
@@ -82,3 +87,15 @@ For every algorithm I focus on understanding:
 - Disadvantages
 - Best use cases
 - Python implementation
+
+---
+
+## 💻 Language
+
+Python 3
+
+---
+
+## 🎯 Repository Goal
+
+This repository documents my journey of mastering **Data Structures & Algorithms** by implementing every sorting algorithm from scratch and understanding the underlying concepts rather than memorizing code.
