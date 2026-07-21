@@ -2,7 +2,7 @@
 
 This folder contains my implementations of fundamental sorting algorithms as part of my **DSA Grind** journey.
 
-These are standalone implementations written to understand the core logic, time complexity, space complexity, and working of each algorithm—not LeetCode submissions.
+These are standalone implementations written to understand the core logic, algorithmic approach, recursion, divide-and-conquer strategy, time complexity, space complexity, and working of each algorithm—not LeetCode submissions.
 
 ---
 
@@ -23,8 +23,8 @@ These are standalone implementations written to understand the core logic, time 
 | 1 | Bubble Sort | ✅ Completed | Best: **O(n)** (Optimized)<br>Average/Worst: **O(n²)** | O(1) | ✅ Yes |
 | 2 | Selection Sort | ✅ Completed | O(n²) | O(1) | ❌ No |
 | 3 | Insertion Sort | ✅ Completed | Best: **O(n)**<br>Average/Worst: **O(n²)** | O(1) | ✅ Yes |
-| 4 | Merge Sort | ⬜ Pending | O(n log n) | O(n) | ✅ Yes |
-| 5 | Quick Sort | ⬜ Pending | Average: O(n log n)<br>Worst: O(n²) | O(log n) | ❌ No |
+| 4 | Merge Sort | ✅ Completed | **O(n log n)** | O(n) | ✅ Yes |
+| 5 | Quick Sort | ⬜ Pending | Average: **O(n log n)**<br>Worst: **O(n²)** | O(log n) | ❌ No |
 
 ---
 
@@ -37,6 +37,7 @@ SORTING/
 ├── bubble_sort.py
 ├── selection_sort.py
 ├── insertion_sort.py
+├── merge_sort.py
 ```
 
 More sorting algorithms will be added as I progress.
@@ -54,6 +55,10 @@ More sorting algorithms will be added as I progress.
 - Stable vs Unstable sorting
 - Comparison-based sorting
 - Divide and Conquer
+- Recursion
+- Merge Procedure
+- Two Pointer Technique
+- Recursive Problem Solving
 - Time Complexity Analysis
 - Space Complexity Analysis
 
@@ -66,10 +71,10 @@ More sorting algorithms will be added as I progress.
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
+- Merge Sort
 
 ### 🔜 Next
 
-- Merge Sort
 - Quick Sort
 
 ---
@@ -80,22 +85,27 @@ For every algorithm I focus on understanding:
 
 - Intuition behind the algorithm
 - Step-by-step dry run
-- Time complexity
-- Space complexity
+- Algorithmic approach
+- Time complexity analysis
+- Space complexity analysis
 - Stability
 - Advantages
 - Disadvantages
 - Best use cases
 - Python implementation
+- Interview perspective
+- Edge cases
 
 ---
 
 ## 💻 Language
 
-Python 3
+- Python 3
 
 ---
 
 ## 🎯 Repository Goal
 
 This repository documents my journey of mastering **Data Structures & Algorithms** by implementing every sorting algorithm from scratch and understanding the underlying concepts rather than memorizing code.
+
+The objective is to build strong problem-solving skills, strengthen algorithmic thinking, and create a comprehensive DSA reference for coding interviews, competitive programming, and software engineering.
