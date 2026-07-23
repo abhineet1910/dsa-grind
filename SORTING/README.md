@@ -2,7 +2,7 @@
 
 This folder contains my implementations of fundamental sorting algorithms as part of my **DSA Grind** journey.
 
-These are standalone implementations written to understand the core logic, algorithmic approach, recursion, divide-and-conquer strategy, time complexity, space complexity, and working of each algorithm—not LeetCode submissions.
+These are standalone implementations written from scratch to understand the core logic, algorithmic approach, recursion, divide-and-conquer strategy, time complexity, space complexity, and working of each algorithm—not LeetCode submissions.
 
 ---
 
@@ -13,6 +13,7 @@ These are standalone implementations written to understand the core logic, algor
 - Practice writing implementations without looking at solutions.
 - Analyze time and space complexities.
 - Build a strong foundation for coding interviews and competitive programming.
+- Develop strong problem-solving and algorithmic thinking skills.
 
 ---
 
@@ -24,7 +25,7 @@ These are standalone implementations written to understand the core logic, algor
 | 2 | Selection Sort | ✅ Completed | O(n²) | O(1) | ❌ No |
 | 3 | Insertion Sort | ✅ Completed | Best: **O(n)**<br>Average/Worst: **O(n²)** | O(1) | ✅ Yes |
 | 4 | Merge Sort | ✅ Completed | **O(n log n)** | O(n) | ✅ Yes |
-| 5 | Quick Sort | ⬜ Pending | Average: **O(n log n)**<br>Worst: **O(n²)** | O(log n) | ❌ No |
+| 5 | Quick Sort | ✅ Completed | Best/Average: **O(n log n)**<br>Worst: **O(n²)** | O(log n) *(recursive stack)* | ❌ No |
 
 ---
 
@@ -38,9 +39,10 @@ SORTING/
 ├── selection_sort.py
 ├── insertion_sort.py
 ├── merge_sort.py
+└── quick_sort.py
 ```
 
-More sorting algorithms will be added as I progress.
+This folder will continue to grow as I explore more advanced sorting techniques and related DSA concepts.
 
 ---
 
@@ -48,8 +50,8 @@ More sorting algorithms will be added as I progress.
 
 - Swapping elements
 - Shifting elements
-- Finding minimum element
-- Maintaining a sorted portion of the array
+- Finding the minimum element
+- Maintaining a sorted portion of an array
 - Nested loops
 - In-place sorting
 - Stable vs Unstable sorting
@@ -57,10 +59,13 @@ More sorting algorithms will be added as I progress.
 - Divide and Conquer
 - Recursion
 - Merge Procedure
+- Partitioning
+- Pivot Selection
 - Two Pointer Technique
 - Recursive Problem Solving
 - Time Complexity Analysis
 - Space Complexity Analysis
+- Best, Average, and Worst Case Analysis
 
 ---
 
@@ -72,16 +77,18 @@ More sorting algorithms will be added as I progress.
 - Selection Sort
 - Insertion Sort
 - Merge Sort
-
-### 🔜 Next
-
 - Quick Sort
+
+### 🎉 Milestone Achieved
+
+- ✅ Completed all fundamental comparison-based sorting algorithms.
+- 🚀 Ready to move on to advanced Data Structures and Algorithms.
 
 ---
 
 ## 🧠 Learning Notes
 
-For every algorithm I focus on understanding:
+For every algorithm, I focus on understanding:
 
 - Intuition behind the algorithm
 - Step-by-step dry run
@@ -95,6 +102,7 @@ For every algorithm I focus on understanding:
 - Python implementation
 - Interview perspective
 - Edge cases
+- Common mistakes and debugging
 
 ---
 
@@ -106,6 +114,8 @@ For every algorithm I focus on understanding:
 
 ## 🎯 Repository Goal
 
-This repository documents my journey of mastering **Data Structures & Algorithms** by implementing every sorting algorithm from scratch and understanding the underlying concepts rather than memorizing code.
+This repository documents my journey of mastering **Data Structures & Algorithms** by implementing every algorithm from scratch and understanding the underlying concepts instead of memorizing code.
 
-The objective is to build strong problem-solving skills, strengthen algorithmic thinking, and create a comprehensive DSA reference for coding interviews, competitive programming, and software engineering.
+The objective is to strengthen problem-solving skills, build algorithmic thinking, and create a comprehensive DSA reference that will support coding interviews, competitive programming, and software engineering preparation.
+
+Every implementation in this repository is accompanied by learning, experimentation, and an emphasis on understanding the **"why"** behind the algorithm—not just the **"how"**.-
