@@ -10,6 +10,9 @@ DSA journey — Striver A2Z + SDE Sheet · LeetCode + GFG · Abhineet 2026
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
+| [Union-and-Intersection-of-Two-Sorted-Arrays](https://github.com/abhineet1910/dsa-grind/tree/master/Union-and-Intersection-of-Two-Sorted-Arrays) |
+
+
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +42,5 @@ DSA journey — Striver A2Z + SDE Sheet · LeetCode + GFG · Abhineet 2026
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
+| [Union-and-Intersection-of-Two-Sorted-Arrays](https://github.com/abhineet1910/dsa-grind/tree/master/Union-and-Intersection-of-Two-Sorted-Arrays) |
 <!---LeetCode Topics End-->
