@@ -57,6 +57,8 @@ Every problem folder contains:
 | [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
 | [Union-and-Intersection-of-Two-Sorted-Arrays](https://github.com/abhineet1910/dsa-grind/tree/master/Union-and-Intersection-of-Two-Sorted-Arrays) |
+| [0075-sort-colors](https://github.com/abhineet1910/dsa-grind/tree/master/0075-sort-colors) |
+
 
 ## Hash Table
 |  |
