@@ -10,18 +10,23 @@ This repository documents my journey of solving DSA problems using **Python**, f
 - 🟢 GeeksforGeeks (GFG)
 
 ---
+📂 Repository Structure
 
-## Repository Structure
+```text
+dsa-grind/
+├── 0001-two-sum/
+├── 0015-3sum/
+├── 0026-remove-duplicates-from-sorted-array/
+├── 0053-maximum-subarray/
+├── 0054-spiral-matrix/
+├── ...
+├── SORTING/
+├── gfg/
+├── leaders_in_array/
+├── count_inversions/
+└── README.md
+```
 
-- 📂 LeetCode Problems
-- 📂 GFG Problems
-- 📂 Sorting Algorithms
-- 📂 Basic Math
-- 📂 Prefix Sum
-- 📂 Two Pointers
-- 📂 Hashing
-- 📂 Bit Manipulation
-- 📂 Dynamic Programming
 
 Every problem folder contains:
 - ✅ Python Solution(s)
@@ -30,20 +35,38 @@ Every problem folder contains:
 - ✅ Space Complexity
 - ✅ README explaining the approach
 
+
+**Arrays ✅ Completed**
+
+Covered important patterns such as:
+
+- Two Pointers
+- Hashing
+- Prefix Sum
+- Kadane's Algorithm
+- Greedy
+- Matrix Traversal
+- Dutch National Flag
+- Merge Sort
+- Intervals
+
+---
+
+## 🛠️ Language & Tools
+
+- Python 🐍
+- LeetCode
+- GeeksforGeeks
+- Git & GitHub
+
 ---
 
 ## 🎯 Goals
 
-- Solve 300+ DSA problems
-- Master core data structures & algorithms
-- Build strong problem-solving skills
-- Prepare for coding interviews
-
----
-
-## 🛠️ Language
-
-- Python 🐍
+- Solve 200+ quality DSA problems
+- Master core DSA patterns
+- Improve problem-solving and algorithmic thinking
+- Build strong DSA fundamentals
 
 ---
 
@@ -53,30 +76,71 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhineet1910/dsa-grind/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhineet1910/dsa-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
-| [Union-and-Intersection-of-Two-Sorted-Arrays](https://github.com/abhineet1910/dsa-grind/tree/master/Union-and-Intersection-of-Two-Sorted-Arrays) |
+| [0031-next-permutation](https://github.com/abhineet1910/dsa-grind/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/abhineet1910/dsa-grind/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/abhineet1910/dsa-grind/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/abhineet1910/dsa-grind/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/abhineet1910/dsa-grind/tree/master/0075-sort-colors) |
-
+| [0088-merge-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/abhineet1910/dsa-grind/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhineet1910/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhineet1910/dsa-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/abhineet1910/dsa-grind/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhineet1910/dsa-grind/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/abhineet1910/dsa-grind/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/abhineet1910/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhineet1910/dsa-grind/tree/master/2149-rearrange-array-elements-by-sign) |
 
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhineet1910/dsa-grind/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/abhineet1910/dsa-grind/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/abhineet1910/dsa-grind/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/abhineet1910/dsa-grind/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/abhineet1910/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/abhineet1910/dsa-grind/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhineet1910/dsa-grind/tree/master/0009-palindrome-number) |
+| [0118-pascals-triangle](https://github.com/abhineet1910/dsa-grind/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/abhineet1910/dsa-grind/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhineet1910/dsa-grind/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/abhineet1910/dsa-grind/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhineet1910/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
+
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/abhineet1910/dsa-grind/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/abhineet1910/dsa-grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
+
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/abhineet1910/dsa-grind/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/abhineet1910/dsa-grind/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/abhineet1910/dsa-grind/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0088-merge-sorted-array) |
 
 ## Recursion
 |  |
@@ -87,26 +151,31 @@ Every problem folder contains:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
-
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
-| [Union-and-Intersection-of-Two-Sorted-Arrays](https://github.com/abhineet1910/dsa-grind/tree/master/Union-and-Intersection-of-Two-Sorted-Arrays) |
 <!---LeetCode Topics End-->
 
 ---
 
+## 🚀 What's Next?
+
+**Binary Search 🔜**
+
+
 ## 📈 Progress
 
-- ✅ LeetCode Problems
-- ✅ GeeksforGeeks Problems
-- ✅ Striver A2Z Roadmap
-- ✅ Clean Python Solutions
-- ✅ Well-documented approaches
-
+| Topic | Status |
+|---|---|
+| Basic Mathematics | ✅ Completed |
+| Sorting | ✅ Completed |
+| Arrays | ✅ Completed |
+| Binary Search | 🔜 Next |
+| Strings | ⏳ Upcoming |
+| Linked List | ⏳ Upcoming |
+| Recursion & Backtracking | ⏳ Upcoming |
+| Bit Manipulation | ⏳ Upcoming |
+| Stack & Queue | ⏳ Upcoming |
+| Trees | ⏳ Upcoming |
+| Graphs | ⏳ Upcoming |
+| Dynamic Programming | ⏳ Upcoming |
 ---
 
 ⭐ If you find this repository helpful, feel free to star it!
