@@ -79,6 +79,7 @@ Covered important patterns such as:
 | [0015-3sum](https://github.com/abhineet1910/dsa-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhineet1910/dsa-grind/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/abhineet1910/dsa-grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhineet1910/dsa-grind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/abhineet1910/dsa-grind/tree/master/0056-merge-intervals) |
@@ -148,6 +149,7 @@ Covered important patterns such as:
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
 
