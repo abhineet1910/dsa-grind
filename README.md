@@ -94,8 +94,8 @@ Covered important patterns such as:
 | [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhineet1910/dsa-grind/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abhineet1910/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhineet1910/dsa-grind/tree/master/2149-rearrange-array-elements-by-sign) |
-
 ## Hash Table
 |  |
 | ------- |
@@ -105,7 +105,6 @@ Covered important patterns such as:
 | [0128-longest-consecutive-sequence](https://github.com/abhineet1910/dsa-grind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/abhineet1910/dsa-grind/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/abhineet1910/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
-
 ## Math
 |  |
 | ------- |
@@ -115,7 +114,6 @@ Covered important patterns such as:
 | [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhineet1910/dsa-grind/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
-
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,7 +121,6 @@ Covered important patterns such as:
 | [0118-pascals-triangle](https://github.com/abhineet1910/dsa-grind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhineet1910/dsa-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
-
 ## Two Pointers
 |  |
 | ------- |
@@ -133,7 +130,6 @@ Covered important patterns such as:
 | [0088-merge-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abhineet1910/dsa-grind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhineet1910/dsa-grind/tree/master/0283-move-zeroes) |
-
 ## Sorting
 |  |
 | ------- |
@@ -141,16 +137,18 @@ Covered important patterns such as:
 | [0056-merge-intervals](https://github.com/abhineet1910/dsa-grind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhineet1910/dsa-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0088-merge-sorted-array) |
-
 ## Recursion
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
-
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
 
 ---
