@@ -79,6 +79,7 @@ Covered important patterns such as:
 | [0015-3sum](https://github.com/abhineet1910/dsa-grind/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/abhineet1910/dsa-grind/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhineet1910/dsa-grind/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/abhineet1910/dsa-grind/tree/master/0053-maximum-subarray) |
@@ -150,6 +151,7 @@ Covered important patterns such as:
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhineet1910/dsa-grind/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
