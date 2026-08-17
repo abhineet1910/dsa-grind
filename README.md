@@ -101,6 +101,7 @@ Covered important patterns such as:
 | [0560-subarray-sum-equals-k](https://github.com/abhineet1910/dsa-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abhineet1910/dsa-grind/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhineet1910/dsa-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhineet1910/dsa-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhineet1910/dsa-grind/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhineet1910/dsa-grind/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@ Covered important patterns such as:
 | [0162-find-peak-element](https://github.com/abhineet1910/dsa-grind/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abhineet1910/dsa-grind/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhineet1910/dsa-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhineet1910/dsa-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhineet1910/dsa-grind/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
