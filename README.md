@@ -155,18 +155,19 @@ Covered important patterns such as:
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhineet1910/dsa-grind/tree/master/0509-fibonacci-number) |
 ## Binary Search
-|  |
-| ------- |
-| [0033-search-in-rotated-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0033-search-in-rotated-sorted-array) |
+|                                                                                                                                                                                    |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [0033-search-in-rotated-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0033-search-in-rotated-sorted-array)                                                   |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
-| [0035-search-insert-position](https://github.com/abhineet1910/dsa-grind/tree/master/0035-search-insert-position) |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
-| [0162-find-peak-element](https://github.com/abhineet1910/dsa-grind/tree/master/0162-find-peak-element) |
-| [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search) |
-| [0875-koko-eating-bananas](https://github.com/abhineet1910/dsa-grind/tree/master/0875-koko-eating-bananas) |
-| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhineet1910/dsa-grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
-| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhineet1910/dsa-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
-| [1539-kth-missing-positive-number](https://github.com/abhineet1910/dsa-grind/tree/master/1539-kth-missing-positive-number) |
+| [0035-search-insert-position](https://github.com/abhineet1910/dsa-grind/tree/master/0035-search-insert-position)                                                                   |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhineet1910/dsa-grind/tree/master/0153-find-minimum-in-rotated-sorted-array)                                       |
+| [0162-find-peak-element](https://github.com/abhineet1910/dsa-grind/tree/master/0162-find-peak-element)                                                                             |
+| [0704-binary-search](https://github.com/abhineet1910/dsa-grind/tree/master/0704-binary-search)                                                                                     |
+| [0875-koko-eating-bananas](https://github.com/abhineet1910/dsa-grind/tree/master/0875-koko-eating-bananas)                                                                         |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/abhineet1910/dsa-grind/tree/master/1011-capacity-to-ship-packages-within-d-days)                                 |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhineet1910/dsa-grind/tree/master/1482-minimum-number-of-days-to-make-m-bouquets)                             |
+| [1539-kth-missing-positive-number](https://github.com/abhineet1910/dsa-grind/tree/master/1539-kth-missing-positive-number)                                                         |
+| [Aggressive-Cows](https://github.com/abhineet1910/dsa-grind/tree/master/aggressive-cows)                                                                          |
 <!---LeetCode Topics End-->
 
 ---
